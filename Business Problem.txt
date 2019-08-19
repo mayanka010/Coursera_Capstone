@@ -1,0 +1,8 @@
+Problem Statement :
+Suppose an owner wants to open his pizza corners in a Bangluru (India). His biggest problem is to decide the places where he can open his pizza corners. Even if he has complete data of the city, he is unable to decide without the help of geographical clusters. He needs to create cluster so that he can fix some places where he can open his pizza corners. He has to open only 5 pizza corners in whole city. Now, the problem for him to decide the best suitable places where he can open his pizza corners from where he can get maximum profit. This task can be solve with the clustering algorithm if we have geographical data of the city. We can make cluster of colonies and localities of the residential people and can fix any number of places for opening the pizza corners. This problem needs Clustering algorithm of Machine Learning i.e. K-Means Clustering, Hierarchical Based Clustering etc. By making clusters using these  algorithms, we can get the solution.
+
+Stakeholders:
+1. Government of concern State,
+2. Sellers,
+3. Customers,
+4. Employees. 

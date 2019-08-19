@@ -1,0 +1,21 @@
+	Data Section
+Following sources of data are used while executing the Capstone Project: -
+
+•	Data title: - 
+Open Data published by Government of Karnataka
+
+Type of data: -
+Dataset in form of CSV file
+
+Duration: - 
+August 2018 data
+
+Description of the dataset: -
+This data is about the various location of places and colonies in the Bengluru.
+
+
+
+
+•	Data title: - 
+Google Maps Geocoding API 
+
